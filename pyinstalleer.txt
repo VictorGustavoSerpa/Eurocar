@@ -1,0 +1,3 @@
+pyinstaller --noconsole --name "Eurocar" --icon="assets/icone.ico" --add-data "assets;assets" --onefile main.py
+
+pyinstaller --noconsole --name "Eurocar" --icon="assets/icone.ico" --add-data "assets;assets" main.py
