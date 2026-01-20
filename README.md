@@ -23,8 +23,3 @@ O Eurocar foi desenvolvido para substituir processos manuais, permitindo:
 - **Relatórios:** FPDF2
 - **Integração:** Requests (para verificação de updates)
 - **Build:** PyInstaller (para criação do executável .exe)
-
-## 📦 Como executar o código
-1. Clone o repositório:
-```bash
-git clone [https://github.com/VictorGustavoSerpa/Eurocar.git](https://github.com/VictorGustavoSerpa/Eurocar.git)
